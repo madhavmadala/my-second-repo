@@ -3,5 +3,5 @@
 #ignore hi.txt file
 *.txt
 
-
+this is just a ingnoring file
  
